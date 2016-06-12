@@ -222,9 +222,9 @@ but instead
 
  package leon.test.myTestPackage
 
- 
 
- Using Leon in IntelliJ
+
+Using Leon in IntelliJ
 ----------------------
 
 You can maybe encounter some problems installing Leon, because of the various dependencies needed.
